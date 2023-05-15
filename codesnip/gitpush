@@ -1,0 +1,5 @@
+#!/bin/bash
+# Push to nab3sac info
+cd ../ 
+git push git@github.com:nab3sac/info.git
+cd -
